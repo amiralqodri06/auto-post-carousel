@@ -1,5 +1,5 @@
 var numpostx = 12,
-thumbSize = 210,
+thumbSize = 60,
 contjumlah = 0,
 cmtext = "Comments",
 pBlank = "https://lh5.googleusercontent.com/-mSufUJ214bg/Uo94DjMjnbI/AAAAAAAAGoA/1q7su-tZBkc/h120/no-image.jpg",
