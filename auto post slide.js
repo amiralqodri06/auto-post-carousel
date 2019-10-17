@@ -1,4 +1,4 @@
-var numpostx = 45,
+var numpostx = 48,
 thumbSize = 90,
 contjumlah = 0,
 cmtext = "",
